@@ -1,0 +1,16 @@
+.App {
+  max-width: 600px;
+  margin: 50px auto 0;
+}
+
+.Weather {
+  border: 2px solid #000;
+  border-radius: 4px;
+  padding: 40px;
+  margin-bottom: 20px;
+}
+
+.App footer {
+  font-size: 12px;
+  margin: 10px 0;
+}
